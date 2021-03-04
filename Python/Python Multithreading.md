@@ -116,7 +116,7 @@ if __name__ == '__main__':
    *This lock is necessary mainly because CPython’s memory management is not thread-safe.*
    (However, since the GIL exists, other features have grown to depend on the guarantees that it enforces.)
 
-  ![20210304095726](C:\Users\lenovo\Desktop\Python多线程\20210304095726.png)
+  ![20210304095726](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/1.png)
 
 - 代码分析：
 

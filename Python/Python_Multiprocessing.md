@@ -174,7 +174,7 @@ value = multiprocessing.Value('d',1)
 array = multiprocessing.Array('i',[1,2,3])
 ```
 
-![QQ截图20210305224724](C:\Users\lenovo\Desktop\QQ截图20210305224724.png)
+![QQ截图20210305224724](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/2.png)
 
 分析：只有shared memory才能实现进程间的交流
 

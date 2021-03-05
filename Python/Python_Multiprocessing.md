@@ -62,7 +62,7 @@
       res1 = q.get()
       res2 = q.get()
       print(res1+res2)
-```
+
   
   分析：Multiprocessing中已经嵌套了Queue
 
@@ -74,7 +74,7 @@
 
 - 代码分析：
 
-```python
+  ```python
   import multiprocessing as mp
   import threading as td
   import time
@@ -129,9 +129,8 @@
       multicore()
     print('multicore time:', time.time()-st2)
   ```
-  
-  分析：多进程>多线程>normal
 
+  分析：多进程>多线程>normal
 #### 进程池pool：
 
 - 功能分析：进程池pool是，你可以把运算放进pool中，python会自动分配进程以及运算结果；

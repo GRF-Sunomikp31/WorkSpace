@@ -74,7 +74,7 @@
 
 - 代码分析：
 
-  ```python
+```python
   import multiprocessing as mp
   import threading as td
   import time
@@ -156,6 +156,7 @@
   if __name__ == '__main__':
       multicore()
   ```
+![QQ截图20210305224724](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/3.png)
 
 分析：进程池pool是一个计算结果的很好办法，他会选择最大进程数。
 
@@ -177,6 +178,7 @@ array = multiprocessing.Array('i',[1,2,3])
 ![QQ截图20210305224724](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/2.png)
 
 分析：只有shared memory才能实现进程间的交流
+
 
 #### Lock：
 

@@ -10,7 +10,7 @@
 
 **Note content：**
 
-![1](E:\studying\往期学习\讲座随笔\IMG\1.png)
+![1](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Lecture%20notes/IMG/1.png)
 
 入门一个领域：泛读几百篇文章，精读几十篇文章
 
@@ -44,7 +44,7 @@
 
 物体姿态估计：神经网络
 
-![2](E:\studying\往期学习\讲座随笔\IMG\2.png)
+![2](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Lecture%20notes/IMG/2.png)
 
 ### 3 相机标定的基本原理与经验分享
 
@@ -54,7 +54,7 @@
 
 **Note content：**
 
-![3-1](E:\studying\往期学习\讲座随笔\IMG\3-1.png)
+![3-1](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Lecture%20notes/IMG/3-1.png)
 
 畸变这个多项式写到6次方就基本上够了，后面几乎为0，没有写的必要了
 
@@ -80,9 +80,9 @@ Opencv中的标定函数和matlab标定函数的区别
 
 标定靶：圆和棋盘，测试结果圆更好提取中心（精度和鲁棒性），检测圆是通过拟合的，所以精度更高，但是具有偏心误差（棋盘不存在） 有相应的算法论文解决这个问题（**精度非常高**，纠正偏心误差）-如何不打算解决偏心误差推荐使用棋盘格
 
-![3-2](E:\studying\往期学习\讲座随笔\IMG\3-2.png)
+![3-2](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Lecture%20notes/IMG/3-2.png)
 
-![3-3](E:\studying\往期学习\讲座随笔\IMG\3-3.png)
+![3-3](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Lecture%20notes/IMG/3-3.png)
 
 照片数量：10-20张
 

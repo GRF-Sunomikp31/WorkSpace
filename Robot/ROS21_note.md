@@ -118,7 +118,7 @@ rqt工具：rqt是ros下基于qt做的可视化工具
 
 ### 10 发布者Publisher的编程实现
 
-![4](/media/gipsy/新加卷/Ubuntu-Windows资料传输/ROS入门21讲/IMG/4.png)
+![4](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/ROS/4.png)
 
 ```c++
 /*
@@ -266,7 +266,7 @@ int main(int argc,char **argv)
 
 ### 12 话题消息的定义与使用
 
-![5](/media/gipsy/新加卷/Ubuntu-Windows资料传输/ROS入门21讲/IMG/5.png)
+![5](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/ROS/5.png)
 
 **自定义话题消息结构类型**：
 
@@ -277,7 +277,7 @@ int main(int argc,char **argv)
 
 ### 13 客户端Client的编程实现
 
-![6](/media/gipsy/新加卷/Ubuntu-Windows资料传输/ROS入门21讲/IMG/6.png)
+![6](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/ROS/6.png)
 
 **Client编程：**
 
@@ -346,7 +346,7 @@ int main(int argc, char** argv)
 
 ### 16 参数的使用与编程方法
 
-![7](/media/gipsy/新加卷/Ubuntu-Windows资料传输/ROS入门21讲/IMG/7.png)
+![7](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/ROS/7.png)
 
 在ROS Master配置的变量可以让全局访问。
 
@@ -396,7 +396,7 @@ lauch启动文件：通过XML文件实现多节点的配置和启动(可自动�
 
 启动launch文件的时候会检测是否启动ROS  Master，没启动的话会默认启动
 
-![8](/media/gipsy/新加卷/Ubuntu-Windows资料传输/ROS入门21讲/IMG/8.png)
+![8](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/ROS/8.png)
 
 XML文件
 
@@ -463,7 +463,7 @@ rqt的工具选择显示匹配的都是**话题名**；
 
 - 找准一个学习方向，深入学习 ： 
 
-  ![1](/media/gipsy/新加卷/Ubuntu-Windows资料传输/ROS入门21讲/IMG/1.png)
+  ![1](https://github.com/GRF-Sunomikp31/WorkSpace/blob/main/Img/ROS/1.png)
 
 ## 其他思考
 
